@@ -82,7 +82,7 @@ Fontes utlizadas:
 
 # Promp Utilizado paracriação do mapa mental
 Prompt: "Crie um mapa mental que baseando em todas as fontes apenas inclua os que inclua os conteúdos presentes nos slides em pdf da FEI."
-      <img src="Mapa mental/NotebookLM Mind Map.png" alt="Texto 1" width="600"/>
+      <img src="Conteudos/Mapa mental/NotebookLM Mind Map.png" alt="Texto 1" width="600"/>
 
 # Prompt Utilizado para a criação dos Slides de apresentação:
 Formato: Slides apresentador - Lides limpos ocm elementos visuais e os principais pontos de discussão para ajudar enquanto voce fala.
